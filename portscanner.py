@@ -1,3 +1,7 @@
+# Author : Eduardo Esteves - copilotlabxgmail.com
+# Egresado de SENATI 2024
+
+
 import socket
 import re
 import nmap
